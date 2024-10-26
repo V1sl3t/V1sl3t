@@ -17,9 +17,6 @@
 
 ### Мой стек технологий:
 
-#### Frontend:
-- HTML5
-- CSS3
 
 #### Backend:
 - Django
