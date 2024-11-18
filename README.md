@@ -22,12 +22,16 @@
 - Django
 - DRF
 - FastAPI
+- Pydantic
+- Alembic
 - PosgreSQL
 - MySQL
 - SQLalchemy
 - DjangoORM
 - Redis
 - Celery
+- RabbitMQ
+- Pytest
 
 #### Другое:
 - Git
